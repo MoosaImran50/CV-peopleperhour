@@ -6,4 +6,4 @@
 
 ![Screenshot 2023-10-10 170147](https://github.com/MoosaImran50/Brick-Breaker/assets/108832275/22e5c84f-4f14-47ac-855c-d9caa142501b)
 
-Deployment Link: [[https://github.com/MoosaImran50/MoosaImran50.github.io](https://moosaimran50.github.io/)https://moosaimran50.github.io/](https://moosaimran50.github.io/)https://moosaimran50.github.io/
+Deployment Link: https://moosaimran50.github.io
